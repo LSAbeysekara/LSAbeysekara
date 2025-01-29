@@ -36,6 +36,11 @@ BIT Graduate from the University of Moratuwa, Sri Lanka, with a strong foundatio
 - PHP, HTML, CSS and JAVASCRIPT
 - https://github.com/LSAbeysekara/Advanced-LMS
 
+### Apartment Management System
+- The Apartment Management System is a comprehensive web-based application designed to simplify and streamline the management of apartments. Built using PHP, JavaScript, HTML, and CSS, this system offers an intuitive interface for managing apartment details, residents, and payments efficiently. The application is integrated with the PayHere Payment Gateway, enabling seamless and secure online payment processing.
+- PHP, HTML, CSS and JAVASCRIPT
+- https://github.com/LSAbeysekara/Apartment-Management-System
+
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
