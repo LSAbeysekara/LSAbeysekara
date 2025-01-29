@@ -4,7 +4,7 @@
 BIT Graduate from the University of Moratuwa, Sri Lanka, with a strong foundation in web development and database management. Passionate about building scalable applications and creating efficient solutions.
 
 <div align="center">
-  <img src="/api/placeholder/800/200" alt="banner image">
+  <img src="https://upload.wikimedia.org/wikipedia/en/6/60/University_of_Moratuwa_logo.png" alt="banner image">
 </div>
 
 ## 💻 Tech Stack
