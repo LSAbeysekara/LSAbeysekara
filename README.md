@@ -29,7 +29,7 @@ BIT Graduate from the University of Moratuwa, Sri Lanka, with a strong foundatio
 ### Online Institute Management System
 - This is a Online Institute Management System which developed using HTML, CSS, JAVA SCRIPT and PHP.
 - PHP, HTML, CSS and JAVASCRIPT
-- Link to repository
+- https://github.com/LSAbeysekara/Online-Institute-Management-System
 
 ### Project 2 Name
 - Brief description of the project
