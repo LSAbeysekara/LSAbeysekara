@@ -31,10 +31,10 @@ BIT Graduate from the University of Moratuwa, Sri Lanka, with a strong foundatio
 - PHP, HTML, CSS and JAVASCRIPT
 - https://github.com/LSAbeysekara/Online-Institute-Management-System
 
-### Project 2 Name
-- Brief description of the project
-- Technologies used
-- Link to repository
+### Advanced Learning Management System
+- This is an advanced Learning Management System which developed using HTML, CSS, JAVA SCRIPT and PHP.
+- PHP, HTML, CSS and JAVASCRIPT
+- https://github.com/LSAbeysekara/Advanced-LMS
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
