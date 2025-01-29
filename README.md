@@ -26,9 +26,9 @@ BIT Graduate from the University of Moratuwa, Sri Lanka, with a strong foundatio
 </div>
 
 ## 🌟 Featured Projects
-### Project 1 Name
-- Brief description of the project
-- Technologies used
+### Online Institute Management System
+- This is a Online Institute Management System which developed using HTML, CSS, JAVA SCRIPT and PHP.
+- PHP, HTML, CSS and JAVASCRIPT
 - Link to repository
 
 ### Project 2 Name
