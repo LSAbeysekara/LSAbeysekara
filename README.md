@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Lahiru Sampath
 
 ## 🎓 About Me
 BIT Graduate from the University of Moratuwa, Sri Lanka, with a strong foundation in web development and database management. Passionate about building scalable applications and creating efficient solutions.
