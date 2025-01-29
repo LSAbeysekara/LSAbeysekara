@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm [Your Name]
 
 ## 🎓 About Me
-I'm a final year undergraduate pursuing a Bachelor of Information Technology (BIT) at the University of Moratuwa, Sri Lanka. Passionate about web development and building scalable applications.
+BIT Graduate from the University of Moratuwa, Sri Lanka, with a strong foundation in web development and database management. Passionate about building scalable applications and creating efficient solutions.
 
 <div align="center">
   <img src="/api/placeholder/800/200" alt="banner image">
