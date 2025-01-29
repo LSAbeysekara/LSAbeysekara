@@ -32,7 +32,7 @@ BIT Graduate from the University of Moratuwa, Sri Lanka, with a strong foundatio
 - https://github.com/LSAbeysekara/Online-Institute-Management-System
 
 ### Advanced Learning Management System
-- This is an advanced Learning Management System which developed using HTML, CSS, JAVA SCRIPT and PHP.
+- This is an advanced Learning Management System which combined both LMS and E commerce website together with accomodation facility system for university students.
 - PHP, HTML, CSS and JAVASCRIPT
 - https://github.com/LSAbeysekara/Advanced-LMS
 
